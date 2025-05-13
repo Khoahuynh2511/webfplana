@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+matplotlib.pyplot
+seaborn
+plotly.express
+datetime
+io
