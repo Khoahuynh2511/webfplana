@@ -4,5 +4,4 @@ requests
 seaborn
 plotly.express
 datetime
-io
 matplotlib
